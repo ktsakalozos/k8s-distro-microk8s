@@ -5,3 +5,4 @@ This project tries to close this gap. In understanding what a Kubernetes cluster
 - Why K8s works the way it does.
 - How to use k8s.
 - When to opt for a distribution vs setting up your own.
+- How to maintain your cluster.
